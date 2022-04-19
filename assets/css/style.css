@@ -1,0 +1,11 @@
+.headline {
+    font-family: 'Courier New', Courier, monospace;
+    color: green;
+    font-size: 40px;
+}
+
+.list {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: red;
+    font-size: 20px;
+}
